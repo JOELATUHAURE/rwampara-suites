@@ -10,7 +10,7 @@ const Header = () => {
     { name: 'Rooms & Rates', href: '/rooms' },
     { name: 'Restaurant', href: '/restaurant' },
     { name: 'Book Now', href: '/book' },
-    { name: 'About Us', href: '/about' },
+    { name: 'About Us', href: '/#about' },
     { name: 'Contact', href: '/contact' },
     { name: 'Gallery', href: '/gallery' },
   ];
